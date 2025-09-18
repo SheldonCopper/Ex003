@@ -1,17 +1,19 @@
+/*h3, cor de texto, fonte */
 .h3{
     color: blue;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
+/*div, borda visivel, arredondar borda, cor borda, distanciamento, tamanho*/
 .div{
     border-style: solid;
     border-radius: 10px;
     border-color: black;
     padding-bottom: 20px;
-    width: 350px;
     padding-left: 20px;
+    width: 350px;
     margin-left: 350px;
 }
+/*Cor de fundo, cor texto, tamanho borda, arredondar borda, tamanho*/
 #curtir{
     background-color: rgb(153, 21, 21);
     color: white;
@@ -20,6 +22,7 @@
     width: 70px;
     height: 25px;
 }
+/*Cor de fundo, cor de texto, tamanho borda, arredondar borda, tamanho */
 #comentar{
     background-color: rgb(30, 99, 155);
     color: white;
