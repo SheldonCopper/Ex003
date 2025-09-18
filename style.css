@@ -1,0 +1,30 @@
+.h3{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.div{
+    border-style: solid;
+    border-radius: 10px;
+    border-color: black;
+    padding-bottom: 20px;
+    width: 350px;
+    padding-left: 20px;
+    margin-left: 350px;
+}
+#curtir{
+    background-color: rgb(153, 21, 21);
+    color: white;
+    border: 1px;
+    border-radius: 10%;
+    width: 70px;
+    height: 25px;
+}
+#comentar{
+    background-color: rgb(30, 99, 155);
+    color: white;
+    border: 1px;
+    border-radius: 10%;
+    width: 100px;
+    height: 25px;
+}
